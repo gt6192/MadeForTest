@@ -1,3 +1,5 @@
+//Code written by Pratik GT (@pratik_gt_6192)
+
 import java.util.Scanner;
 
 class BillingSystem{
